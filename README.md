@@ -4,7 +4,7 @@ This GitHub contains private code repositories for my AI-video-editing and creat
 ### 🎬 VoxaraAE — Natural Language to After Effects Layer + Instructions 
 [Repo](https://github.com/AwesomeSauce711/VoxaraAE) -
 [Demo Video](https://youtu.be/_y3jhZrmNxM) -
-Transforms natural language text prompts into a layer and step-by-step in After Effects.  
+Transforms natural language text prompts into a layer and step-by-step instructions in After Effects.  
 
 ### 🧠 Voxara Web — AI Web-Based Video Editor
 [Repo](https://github.com/AwesomeSauce711/VoxaraWeb) -
