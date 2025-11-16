@@ -1,6 +1,12 @@
 # portfolio-links
 This GitHub contains private code repositories for my AI-video-editing and creative engineering projects. Demo links and descriptions are below. Access can be granted to reviewers upon request. Email: samwells711@gmail.com
 
+## Voxara
+
+## Awards
+![Patton Foundation Prize](https://github.com/user-attachments/assets/5afb6c55-2736-4470-a6f8-3c514b7e0373)
+*Patton Foundation Entrepreneurship Competition 3rd Prize*
+
 ### 🎬 VoxaraAE — Natural Language to After Effects Layer + Instructions 
 
 [Repo](https://github.com/AwesomeSauce711/VoxaraAE) 
@@ -20,6 +26,8 @@ Transforms natural language text prompts into a layer in a custom node-based vid
 <img width="3798" height="2084" alt="Screenshot 2025-10-31 190544" src="https://github.com/user-attachments/assets/a995cd66-ffe3-4dac-8f02-c446fc52e37c" />
 
 <img width="3788" height="2078" alt="Screenshot 2025-10-31 190558" src="https://github.com/user-attachments/assets/0769a5b2-009c-487f-ab4e-e0c555e1506a" />
+
+## Roblox Project
 
 ### 🤖 Ragdoll Physics Game
 
